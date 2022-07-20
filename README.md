@@ -1,1 +1,1 @@
-# Melanoma_Detection-_CNN
+# Melanoma_Detection_CNN
